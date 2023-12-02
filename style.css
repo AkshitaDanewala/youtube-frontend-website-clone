@@ -11,7 +11,7 @@ body {
 }
 
 .pg1 {
-    height: 600vh;
+    height: 530vh;
     width: 100%;
 }
 body::-webkit-scrollbar {
@@ -566,7 +566,7 @@ hr {
 }
 
 .pg1-content {
-    height: 600vh;
+    height: 530vh;
     width: 100%;
     /* background-color: cyan; */
     display: flex;
